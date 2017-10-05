@@ -1,0 +1,21 @@
+div {
+	width: 100px;
+	height: 150px;
+	border-radius: 10px;
+	border: 1px solid black;
+	box-sizing: border-box;
+	margin-left: 5px;
+	margin-bottom: 5px;
+	float: left;
+	background-color: lightgrey;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: 0 15px;
+}
+#wrap {
+	margin-left: 350px;
+	width: 630px;
+	// height: 500px;
+	background-color: transparent;
+	border: none;
+}

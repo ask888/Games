@@ -1,0 +1,14 @@
+.item{ 
+width: 150px;
+height: 150px;
+border:1px solid;
+float:left;
+overflow:hidden
+
+}
+.arr{ 
+width: 150px;
+height: 150px;
+background-size:100% 100%;
+
+}
